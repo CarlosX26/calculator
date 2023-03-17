@@ -7,7 +7,7 @@ Desenvolvi uma calculadora simples utilizando HTML, CSS e JavaScript com program
 Clone o projeto
 
 ```bash
-  git@github.com:CarlosX26/calculator.git
+  git clone git@github.com:CarlosX26/calculator.git
 ```
 
 Entre no diretório do projeto
