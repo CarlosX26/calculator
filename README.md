@@ -1,4 +1,31 @@
-# calculator
-a simple calculator using html, css and javaScript, using object-oriented programming, it was challenging to create the logic to make the clicked number appear on the screen and then make the application perform the calculation, but in the end everything worked out, good is the first version of my project, in the future I intend to make updates.
 
-application link: https://carlosx26.github.io/calculator/
+# CALCULATOR
+
+Desenvolvi uma calculadora simples utilizando HTML, CSS e JavaScript com programação orientada a objetos. Foi desafiador criar a lógica para exibir os números clicados na tela e realizar os cálculos. Ainda é a primeira versão do projeto, mas pretendo fazer atualizações no futuro.
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git@github.com:CarlosX26/calculator.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd calculator
+```
+
+
+
+
+
+
+## Stack utilizada
+
+**Front-end:** HTML, CSS e JavaScript.
+
+
+## Demonstração
+
+link da aplicação: https://carlosx26.github.io/calculator/
